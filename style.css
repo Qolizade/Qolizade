@@ -44,7 +44,7 @@ body {
   width: 100%;
   height: 30em;
   position: absolute;
-  right: 25em;
+  left: 25em;
   z-index: -1;
   background: rgb(19, 19, 19);
 }
@@ -337,7 +337,7 @@ footer .social_media_icons a i:hover{
   background: rgba(20, 20, 20, 0.178);
   position: fixed;
   top: 250px;
-  right: 10px;
+  left: 10px;
   z-index: 100;
   flex-direction: column;
   justify-content: space-evenly;
